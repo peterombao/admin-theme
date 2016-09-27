@@ -1,0 +1,16 @@
+{
+    "name": "peterombao/admin-theme",
+    "authors": [
+        {
+            "name": "peter.ombao",
+            "email": "peter.ombao@republisys.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Peterombao\\AdminTheme\\": "src/"
+        }
+    }
+}
